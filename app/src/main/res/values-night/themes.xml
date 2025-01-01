@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NoteWithAlarm" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/themeNight</item>
+
+    </style>
+
+    <style name="Theme.NoteWithAlarm" parent="Base.Theme.NoteWithAlarm"
+
+        />
+</resources>

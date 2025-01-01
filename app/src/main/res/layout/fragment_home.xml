@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.Home">
+
+    <androidx.recyclerview.widget.RecyclerView
+        tools:listitem="@layout/show_note_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerViewAll"
+        android:scrollbars="none"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+    <TextView
+        android:id="@+id/empty_note"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:text=" { Empty Note }"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:visibility="gone"
+        android:textColor="@color/grey"
+        android:fontFamily="@font/amita"
+        android:textStyle="bold" />
+
+</RelativeLayout>

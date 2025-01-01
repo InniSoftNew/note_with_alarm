@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035116634443",
+    "project_id": "notewithalarm",
+    "storage_bucket": "notewithalarm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035116634443:android:8e7fc48c5969c6e00f88ce",
+        "android_client_info": {
+          "package_name": "com.innisoft.notewithalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035116634443-cademuiosr48qhqeppn89pji7fbk8dd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innisoft.notewithalarm",
+            "certificate_hash": "9c3efecce6d1d6de5471bdb377428ae484c7922e"
+          }
+        },
+        {
+          "client_id": "1035116634443-bnjr7u2vgv07gr0v6km3st4li3fdlgeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPNkXP9cgdBuET4vjTwLOSM3lL5uYVME0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035116634443-bnjr7u2vgv07gr0v6km3st4li3fdlgeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

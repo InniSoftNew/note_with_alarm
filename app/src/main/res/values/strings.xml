@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Note with alarm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">1035116634443-bnjr7u2vgv07gr0v6km3st4li3fdlgeg.apps.googleusercontent.com</string>
+    <string name="add_note">Add Note</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="completed_this_task">Completed This Task</string>
+    <string name="alarm">Alarm +</string>
+    <string name="note">Note</string>
+
+
+    <array name="category">
+        <item>Home</item>
+        <item>Personal</item>
+        <item>Work</item>
+    </array>
+
+</resources>
